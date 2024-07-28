@@ -9,15 +9,21 @@ redirect_from:
 
 普通的二次元萌萌人，比较社恐，成分复杂。不喜欢吵架，希望不同观点的人之间都可以互相尊重，友善交流。
 
-一些我喜欢的事物：
+目前一些喜欢的事物：
 
-けいおん / ぼっち・ざ・ろっく/ project sekai / ヨルシカ / ずっと真夜中でいいのに / yoasobi / aimer / RISC-V / computer architecture / 
+- けいおん
+- ぼっち・ざ・ろっく
+- project sekai
+- ヨルシカ
+- ZUTOMAYO
+
+
 
 我的animelist👉[这个](https://anilist.co/user/yukki160/animelist)
 
 最喜欢的动画👉[这个](https://www.kyotoanimation.co.jp/en/works/k-on/)
 
-![img](/images/bocchi.jpg)
+![img](/images/sabbat-of-the-witch.png)
 
 Current status
 ======
