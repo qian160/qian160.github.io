@@ -1,5 +1,5 @@
 ---
-title: "千恋万花 玩耍体验"
+title: "千恋万花 游玩体验"
 collection: thoughts
 type: "review"
 permalink: /thoughts/2024-senren-banka
