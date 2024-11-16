@@ -1,5 +1,5 @@
 ---
-title: "千恋万花 游玩体验"
+title: "千恋万花 杂谈"
 collection: thoughts
 type: "review"
 permalink: /thoughts/2024-senren-banka
@@ -57,12 +57,13 @@ location: "City, Country"
 <img src="../images/senrenbanka01.jpg" alt="图片描述" style="width: 400px; height: auto; margin-right: 10px;">
 </div>
 
-<br>
 
+<br>
 
 <div style="text-align: center;">
     <img src="../images/senrenbanka11.png" alt="描述文字" style="width: 50%; height: auto;">
 </div>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;虽然丛雨只是一个3号主角，和主线也没有太大的关系，但在国内人气异常的高（不过其中似乎混入不少云玩家，悲）。这可能也是一种国内外的审美差距吧。另外虽然剧情上没有提到，但这大概是唯一一条诅咒没有真正解决的线，不过对游玩体验没什么影响就是了。在通关之前你可能根本都察觉不到这个问题。
 
 
@@ -95,11 +96,13 @@ location: "City, Country"
 
 
 
+
 <center>👇为自己的馊主意沾沾自喜的二人</center>
 
 <div style="text-align: center;">
     <img src="../images/senrenbanka2.jpg" alt="描述文字" style="width: 50%; height: auto;">
 </div>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;个人来说这条线存在一个小缺陷：它假定了芳乃和男主之前在普通路线上已经有了足够的发展（然而并没有），于是进入角色线后直接跳过了两人之间的任何发展，男主突然就意识到他爱上了她，并决定向她表白。我感觉有些不太自然。但也不是什么值得纠结的问题。还有诅咒虽然是解决了，但是这里解决诅咒的方法并不完美，关于诅咒的更多内幕信息也没有透露。这些问题可以在茉子和蕾娜的线中得到进一步的解答。
 
 
@@ -127,6 +130,7 @@ location: "City, Country"
     <img src="../images/senrenbanka18.jpg" alt="图片描述" style="width: 400px; height: auto; margin-right: 10px;">
 </div>
 
+
 <center>👇凄惨的得票率。。。</center>
 
 
@@ -134,6 +138,7 @@ location: "City, Country"
 <div style="text-align: center;">
     <img src="../images/senrenbanka13.jpg" alt="描述文字" style="width: 50%; height: auto;">
 </div>
+
 
 
 <style>   
@@ -191,6 +196,7 @@ location: "City, Country"
 
 
 
+
 <table>
   <tr>
     <td><img src="../images/senrenbanka14.jpg" style="width: 100%; height: auto;"></td>
@@ -202,6 +208,7 @@ location: "City, Country"
 <div style="text-align: center;">
     <img src="../images/senrenbanka18.png" alt="描述文字" style="width: 80%; height: auto;">
 </div>
+
 
 甜蜜度：⭐⭐⭐⭐
 
@@ -226,5 +233,4 @@ location: "City, Country"
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;非常适合新人入门的galgame，氛围轻松愉快，内容合适，不需要什么门槛。故事设计暖心有趣，角色个性鲜明，玩完后能给人留下深刻印象。是消磨时光，补充萌萌能量的好东西。
 
 ![](../images/senrenbanka17.jpg)
-
 

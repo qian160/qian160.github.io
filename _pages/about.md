@@ -11,20 +11,16 @@ redirect_from:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;目前一些喜欢的事物：
 
-- けいおん
-- ぼっち・ざ・ろっく
-- project sekai
-- ヨルシカ
-- ZUTOMAYO
-- YUZUSOFT
-
+- 动漫/漫画
+- 音游、galgame、怪物猎人
+- 音乐(ヨルシカ、ACG)
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我的animelist👉[这个](https://anilist.co/user/yukki160/animelist)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;最喜欢的动画👉[这个](https://www.kyotoanimation.co.jp/en/works/k-on/)
 
-![img](/images/sabbat-of-the-witch.png)
+![img](/images/bocchi.jpg)
 
 Current status
 ======
@@ -37,7 +33,7 @@ Future plans
 ------
 
 - 学习吉他
-- 想做一些有意义的事情
+- 希望能一直做自己喜欢的事情
 
 For more info
 ------
